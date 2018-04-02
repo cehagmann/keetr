@@ -1,0 +1,13 @@
+Package: keetr
+Type: Package
+Title: Functions for Terakeet and Perlu Data Operations
+Version: 0.1.0
+Author: Carl Erick Hagmann, Ph.D.
+Maintainer: CE Hagmann <chagmann@terakeet.com>
+Description: Capabilities TBD but should eventually include:
+    Figure creation templates with TK theme colors
+    Analysis templates for analytics, batching, bundling, workflow
+    Machine learning functions tailored to TK data
+License: file LICENSE
+Encoding: UTF-8
+LazyData: true
